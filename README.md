@@ -1,2 +1,1 @@
-# hello-adk
-Hello,  Agent Development Kit (ADK)!
+# Hello,  Agent Development Kit (ADK)!
